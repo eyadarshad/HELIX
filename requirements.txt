@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+PyQt6
+pefile
+watchdog
+flask
+requests
+imbalanced-learn
+# tensorflow   # Uncomment for LSTM/CNN sequence model

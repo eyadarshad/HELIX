@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# HELIX data (generated at runtime)
+ui/.settings.json
+ui/.scan_history.json
+quarantine/
+overnight_log.txt
+
+# Models are tracked (needed for the app to run)
+# ml/models/*.pkl
+
+# OS
+Thumbs.db
+.DS_Store

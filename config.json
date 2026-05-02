@@ -1,0 +1,8 @@
+{
+    "virustotal_api_key": "",
+    "server_url": "https://goldie-gripiest-guillermo.ngrok-free.dev",
+    "server_api_key": "",
+    "_comment_vt": "Get a free VirusTotal key at https://www.virustotal.com/gui/join-us",
+    "_comment_server": "Set server_url to your HELIX server. Clear to run offline.",
+    "_comment_auth": "Set server_api_key to match HELIX_API_KEY on your server. Leave blank for open mode."
+}

@@ -4,6 +4,7 @@
 
 HELIX is a next-generation malware detection system that combines static PE binary analysis with real-time behavioral sandboxing to identify threats before they execute. Unlike conventional signature-based antivirus engines that depend on known malware databases, HELIX uses machine learning to detect previously unseen threats by analyzing what a binary *is* and what it *does* — not just what it looks like.
 
+Dataset available on Kaggle: https://www.kaggle.com/datasets/eyadarshad/helix-malware-detection-features
 ---
 
 ## The Problem

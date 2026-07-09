@@ -1,3 +1,6 @@
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/31b7448d-ee01-428a-ae29-74a2597ffe40" />
+
+
 # HELIX
 
 **Intelligent Malware Detection Through Hybrid Static-Behavioral Analysis**

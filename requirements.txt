@@ -9,3 +9,5 @@ flask
 requests
 imbalanced-learn
 # tensorflow   # Uncomment for LSTM/CNN sequence model
+
+reportlab
